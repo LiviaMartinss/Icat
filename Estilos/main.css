@@ -1,0 +1,45 @@
+.rowmundo{
+    color: black;
+}
+
+.rowmundo1{
+    color: blue}
+
+
+.body {
+        background-color: rgb(213, 95, 120);
+        color:white;
+        font-family:'Arial Narrow';
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 15px;
+    
+    }
+
+
+.header{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items:center;   left: 0px;}
+
+
+
+.campos{
+            margin-top: 20px;
+            height: 20px;
+            padding: 20px;
+            border-radius: 20px;
+            font-size: 15px;
+        }
+
+
+
+
+
+
+
+
+
+
+
